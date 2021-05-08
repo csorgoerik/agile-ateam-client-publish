@@ -1,0 +1,36 @@
+.upload-button {
+    align-self: center;
+}
+.card-img {
+    height: 300px;
+    width: 100%
+}
+
+.card--post {
+    margin-bottom: 24px;
+    width: 350px;
+    margin: auto;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border: 2px solid var(--blue);
+}
+
+.comment-card {
+    width: 100%;
+    margin: auto;
+    margin-bottom: 3%;
+}
+
+.comment-date {
+    color: white;
+}
+.description {
+    width: 600px;
+    margin: 0 auto;
+    height: 200px;
+    border: 2px solid var(--blue);
+    border-radius: 8px;
+    padding: 12px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
